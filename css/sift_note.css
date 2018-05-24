@@ -1,0 +1,15 @@
+.sift_all{ width: 100%; margin: 120px auto 20px;}
+.sift_all .sift_all_hint{ width:200px; margin: 0 auto; text-align: center;}
+.sift_all_hint div{font-weight: bold; font-size: 22px; margin-top: 10px;}
+.sift_all_hint div span{color: #707070;}
+.sift_all_hint div strong{color: red;}
+
+.sift_all .sift_all_note{ width: 1000px; margin: 20px auto; background: red;}
+.sift_all_note .sift_only{ width: 186px; height: 250px; float: left; margin-left: 14px; cursor: pointer;}
+.sift_all_note .sift_only a{ color: #000;}
+.sift_all_note .sift_only a:hover{color: red; text-decoration: none;}
+.sift_only .up{ width: 186px;}
+.sift_only .in{ width: 186px; height: 60px; border: 1px solid #f0f2f5;}
+.sift_only .in .box-up{ width: 40px; height: 40px; background: #f0f2f5; float: left; margin-top: 10px; margin-left: 10px; color: #000; text-align: center;}
+.sift_only .in .box-down{ float: left; width: 100px; height: 40px;border-bottom: 1px solid #f0f2f5; margin-top: 10px; margin-left:20px; }
+.sift_only .down{ width: 166px; height: 50px; border: 1px solid #f0f2f5; padding-left: 20px;}

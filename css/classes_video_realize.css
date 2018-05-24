@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+.classes_v_realize{width:1100px; margin: 120px auto;}
+.classes_v_realize .summary{width: 1000px; line-height: 35px; padding: 30px;  box-shadow:0 5px 0 #E8E8E8; font-size: 18px;}
+.classes_v_realize .section{ }
+.section .section_only{ width: 1000px;  box-shadow:0 5px 0 #E8E8E8; margin-top: 50px;}
+.section .section_only h3{ font-weight: bold;}
+.section .section_only h6{ padding: 10px; font-size: 16px;}
+.section_only .videos{width:950px; margin: 0 auto;}
+.section_only .videos .video-off{  height: 50px; margin: 20px auto;}
+.videos .video-off a img{ margin: 10px;}
+.videos .video-off span{font-size: 18px; padding-left: 20px; line-height: 50px;}
